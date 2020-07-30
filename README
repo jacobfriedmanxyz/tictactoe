@@ -1,0 +1,7 @@
+tictactoe - Simple text-based 2-player TicTacToe game written in C
+
+AUTHOR: Jacob Friedman <jacob@jacobfriedman.xyz>
+
+INSTALLATION
+
+	make install
